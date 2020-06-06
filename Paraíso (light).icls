@@ -1,10 +1,10 @@
 <scheme name="Paraíso (light)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-06T11:34:21</property>
+    <property name="created">2020-06-06T11:43:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-06-06T11:34:28</property>
+    <property name="modified">2020-06-06T11:43:16</property>
     <property name="originalScheme">Paraíso (light)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -27,7 +27,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="41323f" />
     <option name="FILESTATUS_MODIFIED" value="41323f" />
     <option name="FILESTATUS_UNKNOWN" value="41323f" />
-    <option name="GUTTER_BACKGROUND" value="b9b6b0" />
+    <option name="GUTTER_BACKGROUND" value="f2f2f2" />
     <option name="INDENT_GUIDE" value="8d8687" />
     <option name="LINE_NUMBERS_COLOR" value="2f1e2e" />
     <option name="METHOD_SEPARATORS_COLOR" value="a39e9b" />
@@ -659,7 +659,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="2f1e2e" />
-        <option name="BACKGROUND" value="e7e9db" />
+        <option name="BACKGROUND" value="f2f2f2" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
