@@ -1,16 +1,16 @@
 <scheme name="github" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-06-08T11:22:54</property>
+    <property name="created">2020-06-08T11:26:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-06-08T11:23:04</property>
+    <property name="modified">2020-06-08T11:26:10</property>
     <property name="originalScheme">github</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="dddddd" />
     <option name="GUTTER_BACKGROUND" value="dad7d1" />
     <option name="INDENT_GUIDE" value="8d8687" />
-    <option name="LINE_NUMBERS_COLOR" value="bbbbbb" />
+    <option name="LINE_NUMBERS_COLOR" value="242424" />
     <option name="METHOD_SEPARATORS_COLOR" value="dddddd" />
     <option name="NOTIFICATION_BACKGROUND" value="41323f" />
     <option name="RIGHT_MARGIN_COLOR" value="41323f" />
