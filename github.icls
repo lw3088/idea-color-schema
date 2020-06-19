@@ -1,14 +1,14 @@
 <scheme name="github" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-06-08T11:26:07</property>
+    <property name="created">2020-06-19T17:31:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-06-08T11:26:10</property>
+    <property name="modified">2020-06-19T17:31:55</property>
     <property name="originalScheme">github</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="dddddd" />
-    <option name="GUTTER_BACKGROUND" value="dad7d1" />
+    <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="8d8687" />
     <option name="LINE_NUMBERS_COLOR" value="242424" />
     <option name="METHOD_SEPARATORS_COLOR" value="dddddd" />
@@ -436,6 +436,13 @@
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="336699" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="fdc0c3" />
+        <option name="ERROR_STRIPE_COLOR" value="ebb7cc" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
