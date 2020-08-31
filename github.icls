@@ -1,11 +1,31 @@
 <scheme name="github" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-19T17:31:52</property>
+    <property name="created">2020-08-31T09:21:41</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-06-19T17:31:55</property>
+    <property name="ideVersion">2020.1.3.0.0</property>
+    <property name="modified">2020-08-31T09:21:46</property>
     <property name="originalScheme">github</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.3" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="YouYuan" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="YouYuan" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="dddddd" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
